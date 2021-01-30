@@ -1,6 +1,8 @@
-# myHead
+# My Head
 <p align="center">
 <img src="https://github.com/mbelesiu/myHead/blob/main/MattHead.PNG">
-  It's my head
 </p>
+<p align="center">
+  It's my head
+  </p>
 
